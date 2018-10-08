@@ -1,0 +1,38 @@
+body{
+   background-color: #aeced8;
+
+}
+
+.key {
+    font-family: 'Arvo', serif;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.images {
+    display: flex;
+    height: 50px;
+    width: 60px;
+    text-align: center;
+}
+
+.images-one{
+    height: 50px;
+    width: 80px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
